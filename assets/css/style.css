@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+/*----------------------------------------navigation*/
+
+.list-inline-item:not(:last-child){
+    margin: 0;
+}
+
+.menucontainer{
+    font-size: 0; 
+}
+
+#nav{
+    margin: 0;
+}
+
+#nav li{
+    font-size: 14px;
+    padding: 0;
+}
+
+.menuitem{
+    height: 80px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a{
+    width: 100%;
+    text-decoration: none;
+    color: whitesmoke;
+    height: 80px;
+}
+
+.menuitem a i{
+    font-size: 20px;
+    padding-top: 20px;
+    display: block;
+    color: whitesmoke;
+}
+
+.menuitem span{
+    display: block;
+    color: whitesmoke;
+    font-size: 16px;
+    font-family: "Bangers",sans-serif;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+
+/*----------------------------------------texts,margins,paddings*/
+
+h1,
+h2,
+h3,
+h4{
+    margin: 0;
+}
+
+.general-sub{
+    font-family: "Bangers",sans-serif;
+    color: whitesmoke;
+}
+
+/*----------------------------------------colors*/
+
+
+.ui-menu-color-home{
+    background-color: #0063ce;
+}
+
+.ui-menu-color-heroes{
+    background-color: rgb(199, 5, 5);
+}
+
+
+.ui-menu-color-reading{
+    background-color:#007bff;
+}
+
+.ui-menu-color-contact{
+    background-color:red;
+}
+
+
+
+/*----------------------------------------Home page logos*/
+
+.logo{
+    background: url("../images/stanlee.jpg");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 300px;
+    width: 300px;
+}
+
+.blackpanther{
+    background: url("../images/blackpanther.jpg");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 300px;
+    width: 300px;
+}
+
+.storm{
+    background: url("../images/storm.jpg");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 300px;
+    width: 300px;
+}
+
+.spiderman{
+    background: url("../images/spiderman.jpg");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 300px;
+    width: 300px;
+}
+
+/*----------------------------------------hover.css*/
+
+.hvr-sweep-to-bottom:before{
+    background: rgba(0, 0, 0, 0.2);
+    height: 80px;
+    
+}
+
+/*----------------------------------------footer*/
+
+footer{
+    background-color: rgb(51, 49, 49);
+    padding-top: 8px;
+    padding-bottom: 10px;
+    min-height: 80px;
+
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+    
+.social-links li a i{
+    padding: 10px,0;
+}
