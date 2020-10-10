@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100,200,300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
+
+
 /*----------------------------------------navigation*/
 
 .list-inline-item:not(:last-child){
@@ -52,6 +54,7 @@
 }
 
 
+
 /*----------------------------------------texts,margins,paddings*/
 
 h1,
@@ -59,6 +62,17 @@ h2,
 h3,
 h4{
     margin: 0;
+    font-family: "Bangers",sans-serif;
+    text-align: center;
+    
+}
+
+p{
+    font-family: "Exo",sans-serif;
+    font-weight: 400;
+    text-align: left;
+    
+    
 }
 
 .general-sub{
@@ -66,11 +80,12 @@ h4{
     color: whitesmoke;
 }
 
+
 /*----------------------------------------colors*/
 
 
 .ui-menu-color-home{
-    background-color: #0063ce;
+    background-color: #17a2b8;
 }
 
 .ui-menu-color-heroes{
@@ -79,11 +94,25 @@ h4{
 
 
 .ui-menu-color-reading{
-    background-color:#007bff;
+    background-color:black;
 }
 
 .ui-menu-color-contact{
-    background-color:red;
+    background-color:rgb(86, 1, 94);
+}
+
+.bg-color-title{
+    background-color: black;
+    height: 100%;
+}
+
+.logo-title{
+    color: whitesmoke;
+}
+
+.logo-summary{
+    color: whitesmoke;
+    padding-left: 20px;
 }
 
 
@@ -96,34 +125,22 @@ h4{
     background-repeat:no-repeat;
     background-size:cover;
     height: 300px;
-    width: 300px;
+    width: 100%;
 }
 
 .blackpanther{
-    background: url("../images/blackpanther.jpg");
-    background-position: center;
-    background-repeat:no-repeat;
-    background-size:cover;
-    height: 300px;
-    width: 300px;
+    text-align: center;
+    padding-top: px;
 }
 
 .storm{
-    background: url("../images/storm.jpg");
-    background-position: center;
-    background-repeat:no-repeat;
-    background-size:cover;
-    height: 300px;
-    width: 300px;
+    text-align: center;
+    padding-top: 22px;
 }
 
 .spiderman{
-    background: url("../images/spiderman.jpg");
-    background-position: center;
-    background-repeat:no-repeat;
-    background-size:cover;
-    height: 300px;
-    width: 300px;
+    text-align: center;
+    padding-top: 89px;
 }
 
 /*----------------------------------------hover.css*/
@@ -137,7 +154,7 @@ h4{
 /*----------------------------------------footer*/
 
 footer{
-    background-color: rgb(51, 49, 49);
+    background-color:black;
     padding-top: 8px;
     padding-bottom: 10px;
     min-height: 80px;
@@ -151,6 +168,142 @@ a {
 }
 
     
-.social-links li a i{
+.sociallinks li a i{
     padding: 10px,0;
+}
+
+
+/*----------------------------------------hero pictures*/
+
+.blackpanther-1{
+    text-align: center;
+}
+
+.spiderman-1{
+    text-align: center;
+}
+
+.falcon-1{
+    text-align: center;
+}
+
+.storm-1{
+    text-align: center;
+}
+
+.magneto-1{
+    text-align: center;
+}
+
+.humantorch-1{
+    text-align: center;
+}
+
+.ironman-1{
+    text-align: center;
+}
+
+.warmachine-1{
+    text-align: center;
+}
+
+.iceman-1{
+    text-align: center;
+}
+
+.doctorstrange-1{
+    text-align: center;
+}
+
+.spidey-img{
+    padding-top: 20px;
+}
+/*----------------------------------------hero-sum paddings*/
+.blackpanther-sum {
+    padding-left: 20px;
+}
+
+.spidey-sum {
+    padding-left: 20px;
+    padding-top: 38px;
+}
+
+.falcon-sum{
+    padding-left: 20px;
+}
+
+.storm-sum {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.magneto-sum {
+    padding-top: 34px;
+    padding-left:20px;
+}
+
+.humantorch-sum {
+    padding-left: 20px;
+}
+
+.warmachine-sum {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.ironman-sum{
+    padding-left: 20px;
+}
+
+.doctorstrange-sum{
+    padding-left: 20px;
+}
+
+.iceman-sum{
+    padding-left: 20px; 
+}
+
+
+/*----------------------------------------Readings*/
+
+.blackpanther-2{
+    text-align: center;
+}
+
+.falcon-2{
+    text-align: center;
+}
+
+.warmachine-2{
+    text-align: center;
+}
+
+.ironman-2{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.spiderman-2{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.storm-2{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.doctorstrange-2{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.fantasticfour-2{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.magneto-2{
+    text-align: center;
+    padding: 15px;
 }
