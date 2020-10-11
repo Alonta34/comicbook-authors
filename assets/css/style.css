@@ -307,3 +307,28 @@ a {
     text-align: center;
     padding: 15px;
 }
+
+/*----------------------------------------Contact*/
+
+.comic-contact{
+
+}
+
+.contact{
+    margin-top: 60px;
+    margin-bottom: 40px;
+
+}
+
+.submit-btn{
+
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+
+.center-form{
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+    padding-bottom: 70px;
+}
