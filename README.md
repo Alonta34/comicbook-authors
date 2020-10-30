@@ -25,6 +25,15 @@ on comic book artists and their work as well as reading recommendations. The pro
 - As a returning or new user, I want to be able to submit comic artists for possible additions to the site so that I can read more about them.
 - As a general user, I want to be able to use links to take me to different comics so that I can dive deeper into the works of an artist or comic characters.
 
+![Image of readingsection](https://github.com/assets/images/readingsection.png)
+
+![Image of contactpage](https://github.com/assets/images/contactpage.png)
+
+![Image of heropage](https://github.com/assets/images/heropage.png)
+
+![Image of homepage](https://github.com/assets/images/homepage.png)
+
+
 
 https://drive.google.com/drive/my-drive Open the Balsamiq file labeled Comic Book Artists.bmpr and download to view.
 ## Features
