@@ -108,11 +108,13 @@ p{
 
 .logo-title{
     color: whitesmoke;
+    margin-top: 15px;
 }
 
 .logo-summary{
     color: whitesmoke;
     padding-left: 20px;
+    margin-top: 20px;
 }
 
 
@@ -142,6 +144,7 @@ p{
     text-align: center;
     padding-top: 89px;
 }
+
 
 /*----------------------------------------hover.css*/
 
@@ -221,46 +224,66 @@ a {
 /*----------------------------------------hero-sum paddings*/
 .blackpanther-sum {
     padding-left: 20px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .spidey-sum {
     padding-left: 20px;
     padding-top: 38px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .falcon-sum{
     padding-left: 20px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .storm-sum {
     padding-top: 10px;
     padding-left: 20px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .magneto-sum {
     padding-top: 34px;
     padding-left:20px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .humantorch-sum {
     padding-left: 20px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .warmachine-sum {
     padding-left: 20px;
     padding-top: 20px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .ironman-sum{
     padding-left: 20px;
+    padding-right: 10px;
+    text-align: justify
 }
 
 .doctorstrange-sum{
     padding-left: 20px;
+    padding-right: 10px;
+    text-align: justify;
 }
 
 .iceman-sum{
     padding-left: 20px; 
+    padding-right: 10px;
+    text-align: justify;
 }
 
 
