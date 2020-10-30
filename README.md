@@ -44,7 +44,6 @@ Future Features for this project include the inclusion of different comic book a
 - Character click, let down summary
 
 ## Technologies Used
-
 - [Hover.css](https://cdnjs.com/libraries/hover.css) (https://ianlunn.github.io/Hover/)
     - The project uses Hover.css to add transitions through out the site.
 - [Balsamiq](https://balsamiq.com/)

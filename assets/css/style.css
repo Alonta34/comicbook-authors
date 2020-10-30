@@ -80,6 +80,60 @@ p{
     color: whitesmoke;
 }
 
+.blackpanther-heading{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+}
+
+.spiderman-heading{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.falcon-heading{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+
+.storm-heading{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.magneto-heading{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.humantorch-heading{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ironman-heading{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px
+}
+
+.warmachine-heading{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.iceman-heading{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.doctorstrange-heading{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 
 /*----------------------------------------colors*/
 
@@ -132,6 +186,7 @@ p{
 
 .blackpanther{
     text-align: center;
+   
     
 }
 
