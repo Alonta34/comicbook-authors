@@ -106,6 +106,36 @@ through the site, clicking on links to send the user to reading reccomendations,
 ideas to add to the site on the "Contact" page.
 
 
+# Deployment
+    
+    Website is deployed on github pages : (https://alonta34.github.io/comicbook-authors/)
+    I was able to to do this by going to settings, then scrolling down to get to github pages and changing the none tab in the source section to master and saving.
+    This allowed access for me to host the site on Github Pages.
+
+    In order to access the site through github pages you click on the setting tab at the top right and scroll down to Github Pages
+    and there should be a link to click on. 
+
+
+
+## Validation 
+
+Files were validatied using (https://validator.w3.org/)
+
+
+
+## Devices Used
+
+    1. iPhone XR
+    2. Macbook Air
+    3. iPhone 7
+    4. iPhone 11
+    5. iPhone X
+
+
+
+
+
+
 ### Media
 
 ### Acknowledgements
